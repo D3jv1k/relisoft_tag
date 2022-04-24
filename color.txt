@@ -1,0 +1,23 @@
+Hey guys today i will post a good thing for lua coders want to make colored message.
+(not with ^1…)
+
+Colors:
+~r~ = Red
+~b~ = Blue
+~g~ = Green
+~y~ = Yellow
+~p~ = Purple
+~c~ = Grey
+~m~ = Dark Grey
+~u~ = Black
+~o~ = Orange
+
+Special:
+~n~ = New line
+~s~ = Reset Color
+~h~ = Bold text
+
+For notification:
+∑ = Rockstar Icon
+÷ = Rockstar Icon
+¦ = Rockstar Verified Icon
