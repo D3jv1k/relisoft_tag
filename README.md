@@ -1,6 +1,6 @@
 # relisoft_tag
 ### ESX Tag for mods/admin
-
+THIS IS FOR LEGACY ON
 **Our discord with more scripts: https://discord.gg/F28PfsY**
 
 Eazy tag system with configuration
